@@ -1,4 +1,4 @@
 export default {
-    name: "Osmon",
-    version: "alpha-0.1.0"
-}
+  name: "Osmon",
+  version: "alpha-0.1.0",
+};
