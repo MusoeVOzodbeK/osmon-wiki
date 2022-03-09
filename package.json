@@ -6,7 +6,7 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:fmt": "prettier --check --write .",
-    "docs:build": "vuepress build docs",
+    "docs:build": "vuepress build docs"
   },
   "repository": {
     "type": "git",
