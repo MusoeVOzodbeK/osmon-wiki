@@ -1,0 +1,27 @@
+{
+  "name": "osmon-wiki",
+  "version": "1.0.0",
+  "description": "The wiki website of Osmon",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osmon-lang/osmon-wiki.git"
+  },
+  "keywords": [
+    "Osmon",
+    "Programming-Language"
+  ],
+  "author": "UwUssimo Robinson <uwussimo@icloud.com> (https://uwussi.moe)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osmon-lang/osmon-wiki/issues"
+  },
+  "homepage": "https://github.com/osmon-lang/osmon-wiki#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.36"
+  }
+}
