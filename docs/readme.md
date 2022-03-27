@@ -8,30 +8,30 @@ actions:
     type: primary
 features:
   - title: Tarbiyalovchi
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
+    details: Osmon dasturchilikga endi kirib kelayotgan avlodni o'rgatuvchan tildir.
   - title: Praktik
-    details: Enjoy the dev experience of Vue, use Vue components in markdown, and develop custom themes with Vue.
+    details: Bu til ko'pincha sinab ko'rish orqali o'rganishga yetaklaydi.
   - title: Oson
-    details: Bla bla
+    details: Til o'zbek tilida bo'lgani sababli uni o'rganish qiyinchilik tug'dirmaydi
 footer: MIT Litsenziya | Hamma xuquqlar himoyalangan © 2022 Mad Maids Jamiyati
 ---
 
 <h1 align="center">O'rnatish</h1>
 
 <CodeGroup>
-  <CodeGroupItem title="Powershell" active>
+  <CodeGroupItem title="Windows/Powershell" active>
 
 ```shell
-# birinchi interpretator yuklab olamiz
+# hali reliz chiqmagan, sabrli bo'ling
 iwr file...
 ```
 
   </CodeGroupItem>
 
-  <CodeGroupItem title="Bash">
+  <CodeGroupItem title="*NIX/Bash">
 
 ```bash
-# birinchi interpretator yuklab olamiz
+# hali reliz chiqmagan, sabrli bo'ling
 wget file...
 ```
 
