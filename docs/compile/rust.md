@@ -1,0 +1,1 @@
+# Rust ni o'rnatamiz

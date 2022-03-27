@@ -8,11 +8,13 @@ actions:
     type: primary
 features:
   - title: Tarbiyalovchi
-    details: Osmon dasturchilikga endi kirib kelayotgan avlodni o'rgatuvchan tildir.
+    details:
+      Osmon dasturchilikga endi kirib kelayotgan avlodni o'rgatuvchan tildir.
   - title: Praktik
     details: Bu til ko'pincha sinab ko'rish orqali o'rganishga yetaklaydi.
   - title: Oson
-    details: Til o'zbek tilida bo'lgani sababli uni o'rganish qiyinchilik tug'dirmaydi
+    details:
+      Til o'zbek tilida bo'lgani sababli uni o'rganish qiyinchilik tug'dirmaydi
 footer: MIT Litsenziya | Hamma xuquqlar himoyalangan © 2022 Mad Maids Jamiyati
 ---
 
