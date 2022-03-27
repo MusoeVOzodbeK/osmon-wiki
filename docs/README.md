@@ -5,7 +5,7 @@ heroImage: https://raw.githubusercontent.com/osmon-lang/.github/main/ASSETS/Osmo
 actions:
   - text: Boshlash
     link: /about/
-    type: primary 
+    type: primary
 features:
   - title: Tarbiyalovchi
     details: Minimal setup with markdown-centered project structure helps you focus on writing.
