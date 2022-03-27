@@ -1,1 +1,1 @@
-# Rust ni o'rnatamiz
+# Rustni o'rnatish
