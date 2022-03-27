@@ -6,8 +6,6 @@ websaytidan. Ammo, osmon ga hissangizni qo'shishni istasangiz va dasturchilik
 paytida muammolardan holis bo'lishni istasangiz osmon muallifi keltirib o'tgan
 usullar yordamida rust ni o'rnatish va sozlashni tavsiya qilamiz.
 
-[[toc]]
-
 ## Rustup usuli (rasman ham shu usul taklif qilinadi)
 
 Rustup bu Rust ishlashi uchun kerakli bo'lgan komponentlar o'rnatish, yangilash
