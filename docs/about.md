@@ -1,6 +1,6 @@
 ![Osmon's Logo](https://github.com/osmon-lang/.github/raw/main/profile/banners.png)
 
-# Osmon
+# Osmon Dasturlash Tili
 
 Osmon avvalambor bu o'zbek dasturchilari tomonidan yaratilgan dasturlash tili
 hisoblanadi va bu dasturlash tili yaratilishidan asosiy maqsad, til yoki boshqa
