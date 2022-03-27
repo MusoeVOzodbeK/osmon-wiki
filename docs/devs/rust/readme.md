@@ -8,7 +8,7 @@ qurilgan. Rust bu o'zi qanday til va unda nimalar qilsa bo'ladi?
 Multi paradigmal dasturlash tili hisbolanib, unda deyarli istalgan dasturni
 pastki darajada yasasa bo'ladi va bu dasturlar pastki darajada bo'lgani sababli
 eng tez dasturlash tili sifatida tanilgan o'sha C yoki C++ chalik tezlikda
-ishlaydi. Eng ideal C++ alternativ raqobati.
+ishlaydi. Eng ideal C++ alternativ va hamda raqobati.
 
 ## Nimasi bilan ajralib turadi?
 
