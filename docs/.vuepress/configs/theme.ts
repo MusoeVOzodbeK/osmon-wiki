@@ -12,7 +12,7 @@ export default <ThemeConfig>{
   sidebar: sidebar,
   repoLabel: "Repozitoriya",
   docsRepo: "osmon-lang/osmon-wiki",
-  docsDir: 'docs',
+  docsDir: "docs",
   docsBranch: "main",
   editLink: true,
   editLinkText: "Sahifaga o'zgartirish kiritish",
