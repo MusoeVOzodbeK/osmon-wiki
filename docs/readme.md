@@ -7,7 +7,7 @@ actions:
     link: /about/
     type: primary
   - text: Boshlash
-    link: /about/
+    link: /learn/
     type: primary
 features:
   - title: Tarbiyalovchi
