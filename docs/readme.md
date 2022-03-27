@@ -3,6 +3,9 @@ home: true
 title: Asosiy
 heroImage: https://raw.githubusercontent.com/osmon-lang/.github/main/ASSETS/Osmon.png
 actions:
+  - text: Ma'lumot
+    link: /about/
+    type: primary
   - text: Boshlash
     link: /about/
     type: primary

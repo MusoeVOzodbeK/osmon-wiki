@@ -1,3 +1,5 @@
+![Osmon's Logo](https://github.com/osmon-lang/.github/raw/main/profile/banners.png)
+
 # Osmon
 
 Osmon avvalambor bu o'zbek dasturchilari tomonidan yaratilgan dasturlash tili
