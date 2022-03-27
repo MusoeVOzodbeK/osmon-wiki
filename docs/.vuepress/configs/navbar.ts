@@ -18,14 +18,7 @@ const navbar: NavbarConfig = [
       },
       {
         text: "Qo'llanma",
-        children: [
-          "/reference/default-theme/config.md",
-          "/reference/default-theme/frontmatter.md",
-          "/reference/default-theme/components.md",
-          "/reference/default-theme/markdown.md",
-          "/reference/default-theme/styles.md",
-          "/reference/default-theme/extending.md",
-        ],
+        children: ["/devs/guide/preparation.md"],
       },
     ],
   },
