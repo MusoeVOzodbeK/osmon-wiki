@@ -17,7 +17,7 @@ const navbar: NavbarConfig = [
         children: ["/devs/rust/readme.md", "/devs/rust/install.md"],
       },
       {
-        text: "Proyekt",
+        text: "Qo'llanma",
         children: [
           "/reference/default-theme/config.md",
           "/reference/default-theme/frontmatter.md",
