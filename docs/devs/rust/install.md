@@ -50,8 +50,8 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 Bu bizga avtomatik tarzda rustup o'rnatib sozlab beradi. Bundan so'ng esa rustup
 yordamida rust kompilyatori va uning paket menejeri hisoblanmish "cargo" ni
-o'rnatamiz. Buning uchun esa, terminal ochamiz va quyidagi
-buyruq satrini ishga tushuramiz:
+o'rnatamiz. Buning uchun esa, terminal ochamiz va quyidagi buyruq satrini ishga
+tushuramiz:
 
 ```bash
 rustup install stable
