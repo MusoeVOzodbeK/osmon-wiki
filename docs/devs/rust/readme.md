@@ -9,7 +9,7 @@ qilsa bo'ladi?
 
 ## Rust bu...
 
-Multi paradigmal dasturlash tili hisbolanib, unda deyarli istalgan dasturni
+Multi paradigmal dasturlash tili hisoblanib, unda deyarli istalgan dasturni
 pastki darajada yasasa bo'ladi va bu dasturlar pastki darajada bo'lgani sababli
 eng tez dasturlash tili sifatida tanilgan o'sha C yoki C++ chalik tezlikda
 ishlaydi. Eng ideal C++ alternativ va hamda raqobati.
