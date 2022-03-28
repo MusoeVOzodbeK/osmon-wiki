@@ -35,6 +35,12 @@ istaganingizcha Rustning rasmiy web sahifasidan kirib o'rgansangiz bo'ladi va
 rasmiy havolada Rust haqidagi ma'lumotlar tushunarli qilib yozilgan va o'rtacha
 bilimga ega dasturchilar uchun uni tushunish muammo tug'dirmaydi.
 
+Ushbu havolalar orqali rasmiy resurslarni topshingiz mumkin:
+
+- [Offitsial Dokumentatsiya](https://doc.rust-lang.org/book/)
+- [Praktika yordamida o'rganish](https://doc.rust-lang.org/stable/rust-by-example/)
+- [Rustgda doir kunlik mashg'ulotlar](https://github.com/rust-lang/rustlings/)
+
 ### Osmon usuli
 
 Ingliz tilini tushunmasangiz yoki boshqa muammo sababli o'rgana ololmasangiz,

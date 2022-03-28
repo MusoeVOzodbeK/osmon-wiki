@@ -45,12 +45,12 @@ vaqt ajratishi uning ixtiyoridadir.
 
 O'zbekiston bo'yicha "open source" (ochiq manba) tizimida ishlovchi senior
 dasturchilar judayam kam, ya'ni sanoqlidir va ularning hisobida ushbu til
-muallifi kiradi. Open Source da dastur yozganga hech kim ish haqqi to'lamaydi
-va hatto open source tizimida shakllangan texnologiyalardan foydalanuvchi
-kompaniya va biznes dargohlar hech bo'lmaganda sponsorlik qilish yoki ozgina
-maosh ajratishdan ham bosh tortishadi shuncha ishlatishlariga qaramasdan.
-Shuning uchun ham ko'plab dasturchilar Open Source da biron proyekt yozishdan
-ko'ra biron pullik proyekt boshini tutib qo'pol qilib etganda "soqqa qilish" ni
-ep ko'rishadi. Muallif esa juda qattiq ishonadi kelajakdagi o'zbek open source
+muallifi kiradi. Open Source da dastur yozganga hech kim ish haqqi to'lamaydi va
+hatto open source tizimida shakllangan texnologiyalardan foydalanuvchi kompaniya
+va biznes dargohlar hech bo'lmaganda sponsorlik qilish yoki ozgina maosh
+ajratishdan ham bosh tortishadi shuncha ishlatishlariga qaramasdan. Shuning
+uchun ham ko'plab dasturchilar Open Source da biron proyekt yozishdan ko'ra
+biron pullik proyekt boshini tutib qo'pol qilib etganda "soqqa qilish" ni ep
+ko'rishadi. Muallif esa juda qattiq ishonadi kelajakdagi o'zbek open source
 rivojiga va bunday nohaqliklarga qaramasdan texnologiyalar yaratish va
 rivojlantirishda hali ham davom etmoqda.
