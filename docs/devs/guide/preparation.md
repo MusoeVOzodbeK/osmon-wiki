@@ -16,7 +16,7 @@ qiling:
 - tahrirlovchi vosita, tavsiya qilinadi:
   - [CLion] va
     [Rust kengaytmasi](https://plugins.jetbrains.com/plugin/8182-rust/docs)
-    bilan
+    bilan `(muallif tanlovi)`
   - [VSCode] va
     [Rust kengaytmasi](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
     bilan

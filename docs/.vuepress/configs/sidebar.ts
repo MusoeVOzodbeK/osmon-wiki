@@ -7,8 +7,8 @@ const devs = [
   },
   {
     text: "Qo'llanma",
-    children: ["/devs/guide/preparation.md"]
-  }
+    children: ["/devs/guide/preparation.md"],
+  },
 ];
 
 const sidebar: SidebarConfig = {
