@@ -45,7 +45,7 @@ vaqt ajratishi uning ixtiyoridadir.
 
 O'zbekiston bo'yicha "open source" (ochiq manba) tizimida ishlovchi senior
 dasturchilar judayam kam, ya'ni sanoqlidir va ularning hisobida ushbu til
-muallifi kiradi. Open Source da dastur yozgangan hech kim ish haqqi to'lamaydi
+muallifi kiradi. Open Source da dastur yozganga hech kim ish haqqi to'lamaydi
 va hatto open source tizimida shakllangan texnologiyalardan foydalanuvchi
 kompaniya va biznes dargohlar hech bo'lmaganda sponsorlik qilish yoki ozgina
 maosh ajratishdan ham bosh tortishadi shuncha ishlatishlariga qaramasdan.
