@@ -11,10 +11,10 @@ bu proyekt asosan muallifning bo'sh vaqtida qilingan hobby proyekt hisoblanadi.
 ## O'zbek sintaksisi
 
 Avvalambor ko'rinishidan g'alati tuyulgan bu til odamlarga yoqishi yoki bir vaqt
-o'zida yoqmasligi tabiiy hold. Nega degan savol tug'iladi? Bilamizki deyarli
+o'zida yoqmasligi tabiiy hol. Nega degan savol tug'iladi? Bilamizki deyarli
 hamma dasturlash tillari o'zining so'z lug'ati sifatida ingliz tilini
 ishlatishadi. Hamma dasturchilikka kirib kelgan dasturchilar esa ingliz tili
-lug'atida dasturlar yozishga ko'inikib qolishgan va shu insonlar uchun o'zbek
+lug'atida dasturlar yozishga ko'ninikib qolishgan va shu insonlar uchun o'zbek
 tilida yaratilgan dasurlash tilini ko'rish bir taraflama g'ayratabiiy holatdir.
 Lekin osmonning asosiy maqsadi dasturchilikda tajribasi bor emas, aksincha
 butunlay bu sohada tajribasiz yoki endi kirib kelayotgan avlodni yanada osonroq
