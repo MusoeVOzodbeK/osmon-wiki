@@ -3,10 +3,14 @@
 Ushbu dasturlash tiliga o'z hissangizni qo'shishni boshlash uchun, boshida
 ozgina tayyorgarliklar ko'rib olish darmoqdir.
 
+## Rust
+
 Avvalambor sizning qurilmangizda Rust dasturlash tili o'rnatilganligiga ishonch
 hosil qiling. Buning uchun `cargo --version` buyrug'ini terminalda ishga
 tushurib ko'rishning o'zi yetadi. Agar sizda Rust komponentlari o'rnatilmagan
 bo'lsa, [rustni o'rnatish](/devs/rust/install.md) web sahifasiga yuzlaning.
+
+## Kerakli dasturlar
 
 Shu bilan birgalikda, shu ro'yxatdagi hamma dasturlar borligiga ishonch hosil
 qiling:
