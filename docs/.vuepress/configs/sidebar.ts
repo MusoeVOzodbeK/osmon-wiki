@@ -7,7 +7,7 @@ const devs = [
   },
   {
     text: "Qo'llanma",
-    children: ["/devs/guide/preparation.md"],
+    children: ["/devs/guide/preparation.md", "/devs/guide/compilation.md"],
   },
 ];
 
