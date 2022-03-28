@@ -12,6 +12,7 @@ Rustup bu Rust ishlashi uchun kerakli bo'lgan komponentlar o'rnatish, yangilash
 va ularni boshqarish uchun yordam beradigan dasturdir. Rustup ni o'zini ham
 o'rnatish har xil usullari mavjud.
 
+### Paket Menejeri
 Agar sizning operatsion tizimingizda paket menejeri mavjud bo'lsa, quyidagi
 keltirilgan tanlovlardan o'zingizning paket menejeringizni tanlab o'rnatish
 buyruq satrini ko'chiring va ishga tushuring:
@@ -34,8 +35,14 @@ sudo pacman -S rustup
   </CodeGroupItem>
 </CodeGroup>
 
+Keyin o'rnatilgan rustup yordamida rust kompilyator va komponentlarini o'rnatib qo'yamiz:
+
+```bash
+rustup install stable
+```
+
 Agar sizning operatsion tizimingizda keltirilgan paket menejerlari bo'lmasa,
-ushbu o'rnatish uslublari bo'yicha o'rnating
+pastgi qismlardagi o'rnatish uslublari bo'yicha o'rnating
 
 ### \*NIX / Linux
 
