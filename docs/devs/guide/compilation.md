@@ -30,3 +30,23 @@ Agar sizda `git` bo'lmasa, ushbu tugmachani bosish yordamida eng oxirgi
 yangilanishni zip faylda ko'chirib olishingiz mumkin:
 
 - [Eng oxirgi kommita (main branch)](https://github.com/osmon-lang/osmon/archive/refs/heads/main.zip)
+
+## Kompilyatsiya bosqichi
+
+Dasturni kompilyatisya qilish uchun endi ko'chirilgan proyekt papkasi ichida
+terminal ochamiz va ushbu buyruq satrini ishga tushuramiz:
+
+```shell
+cargo build --release
+```
+
+va ushbu buyruq ishga tushurgandan so'ng uzoq sabr tilayman sizlarga!
+
+![Kompilyatsiya natijasi](/compiled-binary.png)
+
+Agar oxirida sizda ham shunday natija ko'rsatsa, demak kompilyatsiya
+muvaffaqiyatli o'tdi. Ishga tushuruvchi faylni esa `target/release` papkasi
+ichida topasiz. Agar sizda \*NIX oilasiga mansub operatsion tizim bo'lsa,
+`osmon` nomida bo'ladi, aks holda `osmon.exe`.
+
+![Kompilyatsiya payti](/osmon-compiled.png)
