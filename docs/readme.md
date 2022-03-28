@@ -18,7 +18,7 @@ features:
   - title: Oson
     details:
       Til o'zbek tilida bo'lgani sababli uni o'rganish qiyinchilik tug'dirmaydi
-footer: MIT Litsenziya | Hamma xuquqlar himoyalangan © 2022 Mad Maids Jamiyati
+footer: MIT Litsenziya | Hamma xuquqlar himoyalangan © 2022 UwUssimo
 ---
 
 <h1 align="center">O'rnatish</h1>
