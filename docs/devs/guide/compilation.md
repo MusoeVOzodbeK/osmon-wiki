@@ -3,6 +3,13 @@
 Agar reliz bilan qoniqmasangiz, ushbu dasturlash tilini o'zingizni qurilmangizda
 eng oxirgi yangilanishlar bilan kompilyatsiya qilib olishingiz mumkin.
 
+:::warning
+
+Eng oxirgi kamitada yuklangan reliz ishlashiga muallif kafolat berolmaydi. Agar
+muammolardan holis bo'lishni istasangiz, relizni yuklang!
+
+:::
+
 Kompilyatisya qilish uchun avval Rust dasturlash tili o'rnatilganligini
 tekshiring. Agar o'rnatilmagan bo'lsa [rustni o'rnatish](/devs/rust/install.md)
 sahifasiga o'tib rustni o'rnatib oling.
@@ -50,3 +57,40 @@ ichida topasiz. Agar sizda \*NIX oilasiga mansub operatsion tizim bo'lsa,
 `osmon` nomida bo'ladi, aks holda `osmon.exe`.
 
 ![Kompilyatsiya payti](/osmon-compiled.png)
+
+## Sinab ko'rish
+
+Kompilyatsiya qilingan ishga tushuruvchini olib istalgan joyga qo'yamiz va
+yonida yana fayl yaratamiz. Faylga `salom.osm` deb nom beramiz. Fayl ichida esa, quyidagi dasturni yozamiz:
+
+```
+funksiya asosiy() {
+    yoz("Ismingiz nima?");
+    joy ism = oqi();
+    yoz("Salom, ",ism);
+}
+```
+
+va undan so'ng esa, shu fayllar joylashgan joyda terminal ochib, quyidagi buyruq satrini ishga tushuramiz:
+
+<CodeGroup>
+  <CodeGroupItem title="Windows/Powershell" active>
+
+```shell
+.\osmon.exe .\salom.osm
+```
+
+  </CodeGroupItem>
+
+  <CodeGroupItem title="*NIX/Bash">
+
+```bash
+./osmon ./salom.osm
+```
+
+  </CodeGroupItem>
+</CodeGroup>
+
+va ishga tushurgandan so'ng, ko'rsatilgan natijani olamiz.
+
+![Ishga tushurilgan natija](/test-run.png)
