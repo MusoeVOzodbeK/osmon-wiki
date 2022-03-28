@@ -10,7 +10,7 @@ hosil qiling. Buning uchun `cargo --version` buyrug'ini terminalda ishga
 tushurib ko'rishning o'zi yetadi. Agar sizda Rust komponentlari o'rnatilmagan
 bo'lsa, [rustni o'rnatish](/devs/rust/install.md) web sahifasiga yuzlaning.
 
-## Kerakli dasturlar
+## Kerakli narsalar
 
 Shu bilan birgalikda, shu ro'yxatdagi hamma dasturlar borligiga ishonch hosil
 qiling:
