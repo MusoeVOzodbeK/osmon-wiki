@@ -13,6 +13,7 @@ va ularni boshqarish uchun yordam beradigan dasturdir. Rustup ni o'zini ham
 o'rnatish har xil usullari mavjud.
 
 ### Paket Menejeri
+
 Agar sizning operatsion tizimingizda paket menejeri mavjud bo'lsa, quyidagi
 keltirilgan tanlovlardan o'zingizning paket menejeringizni tanlab o'rnatish
 buyruq satrini ko'chiring va ishga tushuring:
@@ -35,7 +36,8 @@ sudo pacman -S rustup
   </CodeGroupItem>
 </CodeGroup>
 
-Keyin o'rnatilgan rustup yordamida rust kompilyator va komponentlarini o'rnatib qo'yamiz:
+Keyin o'rnatilgan rustup yordamida rust kompilyator va komponentlarini o'rnatib
+qo'yamiz:
 
 ```bash
 rustup install stable
