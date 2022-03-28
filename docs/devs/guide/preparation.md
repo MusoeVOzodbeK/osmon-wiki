@@ -31,7 +31,7 @@ qiling:
 
 [git]: https://git-scm.com/
 [github]: https://github.com/
-[cargo]: https://crates.io/
+[cargo]: https://github.com/rust-lang/cargo
 [clion]: https://www.jetbrains.com/clion/
 [vscode]: https://code.visualstudio.com/
 [neovim]: https://neovim.io/
