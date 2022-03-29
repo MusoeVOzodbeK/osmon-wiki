@@ -49,14 +49,14 @@ cargo build --release
 
 va ushbu buyruq ishga tushurgandan so'ng uzoq sabr tilayman sizlarga!
 
-![Kompilyatsiya natijasi](/compiled-binary.png)
+![Kompilyatsiya natijasi](/devs/guide/compiled-binary.png)
 
 Agar oxirida sizda ham shunday natija ko'rsatsa, demak kompilyatsiya
 muvaffaqiyatli o'tdi. Ishga tushuruvchi faylni esa `target/release` papkasi
 ichida topasiz. Agar sizda \*NIX oilasiga mansub operatsion tizim bo'lsa,
 `osmon` nomida bo'ladi, aks holda `osmon.exe`.
 
-![Kompilyatsiya payti](/osmon-compiled.png)
+![Kompilyatsiya payti](/devs/guide/osmon-compiled.png)
 
 ## Sinab ko'rish
 
@@ -95,4 +95,4 @@ satrini ishga tushuramiz:
 
 va ishga tushurgandan so'ng, ko'rsatilgan natijani olamiz.
 
-![Ishga tushurilgan natija](/test-run.png)
+![Ishga tushurilgan natija](/devs/guide/test-run.png)

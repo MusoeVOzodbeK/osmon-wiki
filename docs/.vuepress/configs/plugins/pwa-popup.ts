@@ -1,7 +1,7 @@
 export default [
-  '@vuepress/plugin-pwa-popup',
+  "@vuepress/plugin-pwa-popup",
   {
-    message: 'Yangi ma\'lumotlar mavjud.',
-    buttonText: 'Yangilash',
+    message: "Yangi ma'lumotlar mavjud.",
+    buttonText: "Yangilash",
   },
-]
+];

@@ -5,7 +5,7 @@ qurilgan. Osmonga o'z xissangizni qo'shishni istasangiz, sizda Rust dasturlash
 tili bo'yicha tajriba bo'lishi shart! Rust bu o'zi qanday til va unda nimalar
 qilsa bo'ladi?
 
-<p align="center"><img height="300" width="400" align="center" src="/ferrisbek.png" title="Ferrisbek"></p>
+<p align="center"><img height="300" width="400" align="center" src="/devs/rust/ferrisbek.png" title="Ferrisbek"></p>
 
 ## Rust bu...
 

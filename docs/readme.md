@@ -1,7 +1,7 @@
 ---
 home: true
 title: Asosiy
-heroImage: https://raw.githubusercontent.com/osmon-lang/.github/main/ASSETS/Osmon.png
+heroImage: /main/osmon.png
 actions:
   - text: Ma'lumot
     link: /about/

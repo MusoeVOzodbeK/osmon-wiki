@@ -82,7 +82,7 @@ komponent, ya'ni
 ni o'rnatamiz. Bunda Visual Studioni o'zi emas, uning komponentlari ichida
 keladi xolos.
 
-![Visual Studio Build Tools o'rnati jarayoni](/only-c++.png) O'rnatish
+![Visual Studio Build Tools o'rnati jarayoni](/devs/rust/only-c++.png) O'rnatish
 jarayonida faqat ko'rsatilgan variantni tanlash bilan cheklanamiz.
 
 Hamma kerakli narsalar va rustup o'zini o'rnatib bo'lgach, rustup yordamida rust

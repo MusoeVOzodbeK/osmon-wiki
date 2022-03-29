@@ -1,4 +1,4 @@
-![Osmon's Logo](https://github.com/osmon-lang/.github/raw/main/profile/banners.png)
+![Osmon's Logo](/main/banners.png)
 
 # Osmon Dasturlash Tili
 
