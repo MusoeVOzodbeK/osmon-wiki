@@ -61,7 +61,8 @@ ichida topasiz. Agar sizda \*NIX oilasiga mansub operatsion tizim bo'lsa,
 ## Sinab ko'rish
 
 Kompilyatsiya qilingan ishga tushuruvchini olib istalgan joyga qo'yamiz va
-yonida yana fayl yaratamiz. Faylga `salom.osm` deb nom beramiz. Fayl ichida esa, quyidagi dasturni yozamiz:
+yonida yana fayl yaratamiz. Faylga `salom.osm` deb nom beramiz. Fayl ichida esa,
+quyidagi dasturni yozamiz:
 
 ```
 funksiya asosiy() {
@@ -71,7 +72,8 @@ funksiya asosiy() {
 }
 ```
 
-va undan so'ng esa, shu fayllar joylashgan joyda terminal ochib, quyidagi buyruq satrini ishga tushuramiz:
+va undan so'ng esa, shu fayllar joylashgan joyda terminal ochib, quyidagi buyruq
+satrini ishga tushuramiz:
 
 <CodeGroup>
   <CodeGroupItem title="Windows/Powershell" active>

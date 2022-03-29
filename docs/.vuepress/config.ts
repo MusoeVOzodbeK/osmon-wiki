@@ -1,14 +1,19 @@
 import { defineUserConfig } from "vuepress";
 import type { DefaultThemeOptions } from "vuepress";
-import theme from "./configs/theme";
+import themeConfig from "./configs/theme";
 import plugins from "./configs/plugins";
+import head from "./configs/head";
 
 export default defineUserConfig<DefaultThemeOptions>({
+  // @ts-ignore
+  head,
+  base: "/",
   lang: "uz",
+  themeConfig,
   title: "Osmon Wiki",
-  description: "Osmon Dasturlash Tili Wikipediasi",
   theme: "@vuepress/theme-default",
-  themeConfig: theme,
+  description: "Osmon Dasturlash Tili Wikipediasi",
+  bundler: process.env.DOCS_BUNDLER ?? "@vuepress/vite",
   // @ts-ignore
   plugins,
 });
