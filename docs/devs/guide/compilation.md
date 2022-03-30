@@ -5,7 +5,7 @@ eng oxirgi yangilanishlar bilan kompilyatsiya qilib olishingiz mumkin.
 
 :::warning
 
-Eng oxirgi kamitada yuklangan reliz ishlashiga muallif kafolat berolmaydi. Agar
+Eng oxirgi komitada yuklangan reliz ishlashiga muallif kafolat berolmaydi. Agar
 muammolardan holis bo'lishni istasangiz, relizni yuklang!
 
 :::
