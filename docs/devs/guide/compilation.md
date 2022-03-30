@@ -96,3 +96,7 @@ satrini ishga tushuramiz:
 va ishga tushurgandan so'ng, ko'rsatilgan natijani olamiz.
 
 ![Ishga tushurilgan natija](/devs/guide/test-run.png)
+
+Agar yanada ko'proq misollar bilan sinab ko'rishni istasangiz, muallif tomonidan
+yaratilgan [osmon-examples](https://github.com/osmon-lang/osmon-examples)
+repozitoriyasiga murojat qilishingiz mumkin.
