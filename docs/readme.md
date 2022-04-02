@@ -26,9 +26,8 @@ footer: MIT Litsenziya | Hamma xuquqlar himoyalangan © 2022 UwUssimo
 <CodeGroup>
   <CodeGroupItem title="Windows/Powershell" active>
 
-```shell
-# hali reliz chiqmagan, sabrli bo'ling
-iwr file...
+```powershell
+iwr https://sh.osmon.dev/install.ps1 -useb | iex
 ```
 
   </CodeGroupItem>
@@ -36,8 +35,7 @@ iwr file...
   <CodeGroupItem title="*NIX/Bash">
 
 ```bash
-# hali reliz chiqmagan, sabrli bo'ling
-wget file...
+curl -fsSL https://sh.osmon.dev/install.sh | sh
 ```
 
   </CodeGroupItem>
