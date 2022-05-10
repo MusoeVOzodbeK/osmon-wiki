@@ -6,6 +6,7 @@ Osmon dasturlash tilida sayohatimizni boshlaymiz. Ushbu bobda biz Osmonni noldan
 - Kalit so'zlar bilan tanishib olish
 
 <i><h2 align="center"> Osmon dasturlash tilini o'rnatish </i></h2>
+Osmon dasturlash tilini o'rnatish uchun birinchi bo'lib terminal yo'ki Powershellni ochishiz lozim. Ochilgandan so'ng ushbu komandani terishiz kerak:
 
 <CodeGroup>
   Windows(Powershell/Terminal)
@@ -17,6 +18,7 @@ iwr https://sh.osmon.dev/install.ps1 -useb | iex
 
   </CodeGroupItem>
   Linux/MacOS
+  
   <CodeGroupItem title="*NIX/Bash">
 
 ```bash
