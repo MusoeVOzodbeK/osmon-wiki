@@ -1,7 +1,7 @@
 ---
 home: true
 title: Asosiy
-heroImage: /main/osmon.png
+heroImage: /main/circle.png
 actions:
   - text: Ma'lumot
     link: /about/
